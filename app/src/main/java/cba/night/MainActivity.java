@@ -11,7 +11,8 @@ import static cba.night.R.id.*;
 
 public class MainActivity extends AppCompatActivity {
 
-  TextView fede = (TextView)findViewById(id.textView);
+    TextView fede = (TextView)findViewById(id.textView);
+    Button btn = (Button)
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
